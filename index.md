@@ -8,7 +8,7 @@
 <img src="images/insta-app-min.png?raw=true"/>
 
 ---
-[Rails Store](/pdf/sample_presentation.pdf)
+[Rails Store](https://bitbucket.org/rutgertaal/potepanec/src/master/)
 <img src="images/rails-store-app-min.png?raw=true"/>
 
 ---
