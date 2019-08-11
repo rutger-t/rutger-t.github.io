@@ -22,4 +22,4 @@
 
 <img src="images/insta-app-4-min.png?raw=true"/>
 
-For more details see [Bitbucket](https://bitbucket.org/rutgertaal/instagram_app/src/master/).
+For more details see [Bitbucket](https://bitbucket.org/rutgertaal/instagram_app/src/fcda28bef36145fdc909602f842fc5749dbe4a9e/?at=feature%2Fcreate_instagram_app).
