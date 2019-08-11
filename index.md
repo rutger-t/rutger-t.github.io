@@ -12,7 +12,7 @@
 <img src="images/rails-store-app-min.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[To Do List App](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
