@@ -12,7 +12,7 @@
 <img src="images/rails-store-app-min.png?raw=true"/>
 
 ---
-[To Do List App](http://example.com/)
+[To Do List App](https://github.com/rutger-t/to-do-list)
 <img src="images/rails-app-min.jpg?raw=true"/>
 
 ---
