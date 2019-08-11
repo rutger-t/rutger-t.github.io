@@ -2,7 +2,7 @@
 
 **Project description:** I had to create an Instagram Clone within two weeks for the programming school.
 <br>
-[Bitbucket](https://bitbucket.org/rutgertaal/instagram_app/src/fcda28bef36145fdc909602f842fc5749dbe4a9e/?at=feature%2Fcreate_instagram_app).
+[Bitbucket Repository](https://bitbucket.org/rutgertaal/instagram_app/src/fcda28bef36145fdc909602f842fc5749dbe4a9e/?at=feature%2Fcreate_instagram_app).
 
 ### 1. Homepage
 
