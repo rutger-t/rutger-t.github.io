@@ -5,7 +5,7 @@
 ### Projects 
 
 [Instagram App](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2019-08-11 at 11.23.32?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
