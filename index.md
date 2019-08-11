@@ -8,8 +8,8 @@
 <img src="images/insta-app-min.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rails Store](/pdf/sample_presentation.pdf)
+<img src="images/rails-store-app.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
