@@ -9,7 +9,7 @@
 
 ---
 [Rails Store](/pdf/sample_presentation.pdf)
-<img src="images/rails-store-app.png?raw=true"/>
+<img src="images/rails-store-app-min.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
