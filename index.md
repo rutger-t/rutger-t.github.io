@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Instagram App](/sample_page)
+[Instagram App](/insta_app_page)
 <img src="images/insta-app-min.png?raw=true"/>
 
 ---
