@@ -2,9 +2,9 @@
 
 **Project description:** I had to create an Instagram Clone within two weeks for the programming school.
 <br><br>
-Heroku: [Heroku](https://rutger-instagram-app.herokuapp.com/)
+[Heroku](https://rutger-instagram-app.herokuapp.com/)
 <br><br>
-BitBucket: [Bitbucket Repository](https://bitbucket.org/rutgertaal/instagram_app/src/fcda28bef36145fdc909602f842fc5749dbe4a9e/?at=feature%2Fcreate_instagram_app)
+[Bitbucket Repository](https://bitbucket.org/rutgertaal/instagram_app/src/fcda28bef36145fdc909602f842fc5749dbe4a9e/?at=feature%2Fcreate_instagram_app)
 
 ### 1. Homepage
 
@@ -26,4 +26,4 @@ BitBucket: [Bitbucket Repository](https://bitbucket.org/rutgertaal/instagram_app
 
 <img src="images/insta-app-4-min.png?raw=true"/>
 
-For more details see [Bitbucket](https://bitbucket.org/rutgertaal/instagram_app/src/fcda28bef36145fdc909602f842fc5749dbe4a9e/?at=feature%2Fcreate_instagram_app).
+For more details see [Bitbucket](https://bitbucket.org/rutgertaal/instagram_app/src/fcda28bef36145fdc909602f842fc5749dbe4a9e/?at=feature%2Fcreate_instagram_app) or [Heroku](https://rutger-instagram-app.herokuapp.com/).
