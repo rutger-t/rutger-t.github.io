@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/rutger-taal-48695358/">View My LinkedIn Profile</a> 
   <br><br>
   <a href="https://bitbucket.org/rutgertaal/">View My BitBucket Profile</a> 
-  <a href="https://www.linkedin.com/in/rutger-taal-48695358/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/rutger-taal-48695358/"><img src="https://img.icons8.com/ios-filled/48/000000/linkedin.png"></a>
   <a href="https://www.linkedin.com/in/rutger-taal-48695358/"><img src="https://img.icons8.com/windows/48/000000/github-2.png"></a> 
   
 theme: jekyll-theme-minimal
