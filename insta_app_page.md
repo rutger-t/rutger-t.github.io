@@ -1,6 +1,6 @@
 ## Insta App
 
-**Project description:** I had to create an Instagram Clone within two weeks for the programming school.
+**Project description:** I made an Instagram Clone within two weeks for my programming school.
 <br><br>
 [Heroku](https://rutger-instagram-app.herokuapp.com/)
 <br><br>
