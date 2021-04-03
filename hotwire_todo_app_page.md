@@ -8,6 +8,6 @@
 
 ### Todo list with Hotwire
 
-<img src="images/insta-app-min.png?raw=true"/>
+<img src="todo-list-hotwire.png?raw=true"/>
 
 For more details see [Github Repository](https://github.com/rutger-t/hotwire-rails-app) or try it out on [Heroku](https://hotwire-todo-list.herokuapp.com/).
