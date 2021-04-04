@@ -5,7 +5,7 @@
 ### Projects 
 
 [Todo list App with Hotwire](/hotwire_todo_app_page)
-<img src="images/todo-list-hotwire.png?raw=true"/>
+<img src="images/hotwire todo list.gif?raw=true"/>
 
 ---
 
