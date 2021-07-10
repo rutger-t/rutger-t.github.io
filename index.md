@@ -4,6 +4,11 @@
 
 ### Projects 
 
+[Rails API with React](/rails_api_react_page)
+<img src="images/hotwire todo list.gif?raw=true"/>
+
+---
+
 [Todo list App with Hotwire](/hotwire_todo_app_page)
 <img src="images/hotwire todo list.gif?raw=true"/>
 
