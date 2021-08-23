@@ -5,7 +5,7 @@
 ### Projects 
 
 [Rails API with React](/rails_api_react_page)
-<img src="images/hotwire todo list.gif?raw=true"/>
+<img src="images/open-movie-hp.png?raw=true"/>
 
 ---
 
