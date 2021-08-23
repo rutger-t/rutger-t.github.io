@@ -8,6 +8,6 @@
 
 ### React API with React
 
-<img src="images/hotwire todo list.gif?raw=true"/>
+<img src="images/open-movie-hp.png?raw=true"/>
 
 For more details see [Github Repository](https://github.com/rutger-t/open-movies) or try it out on [Heroku](https://open-movies.herokuapp.com/).
